@@ -1,0 +1,7 @@
+event_id,node,event_date,event_type,audience,format,region,n_attendees,n_contact_hours,materials_doi,qc_flag,notes
+VIMS-EX001,VIMS,2027-02-04,hatchery_training,extension_agents,hybrid,ATL,55,2,NA,1,MOCK DATA
+VIMS-EX002,VIMS,2027-03-13,field_day,students_undergrad,in_person,ATL,16,2,NA,1,MOCK DATA
+VIMS-EX003,VIMS,2027-04-21,classroom_module,students_undergrad,hybrid,ATL,31,4,NA,1,MOCK DATA
+VIMS-EX004,VIMS,2027-05-09,classroom_module,extension_agents,hybrid,ATL,32,4,NA,1,MOCK DATA
+VIMS-EX005,VIMS,2027-06-17,hatchery_training,extension_agents,hybrid,ATL,56,4,NA,1,MOCK DATA
+VIMS-EX006,VIMS,2027-07-02,webinar,industry,virtual,ATL,28,1,NA,1,MOCK DATA

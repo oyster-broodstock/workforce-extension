@@ -1,0 +1,6 @@
+trainee_code,node,role,program,start_date,end_date,mentor_code,qc_flag,notes
+ARS-TR001,ARS,grad_ms,CAP research,2027-01-15,NA,ARS-OP04,1,MOCK DATA
+ARS-TR002,ARS,undergrad,summer REU,2027-02-14,NA,ARS-OP03,1,MOCK DATA
+ARS-TR003,ARS,grad_ms,hatchery internship,2027-03-16,NA,ARS-OP04,1,MOCK DATA
+ARS-TR004,ARS,undergrad,hatchery internship,2027-04-15,NA,ARS-OP04,1,MOCK DATA
+ARS-TR005,ARS,grad_ms,summer REU,2027-05-15,NA,ARS-OP03,1,MOCK DATA

@@ -1,0 +1,7 @@
+event_id,node,event_date,event_type,audience,format,region,n_attendees,n_contact_hours,materials_doi,qc_flag,notes
+UW-EX001,UW,2027-02-20,workshop,mixed,hybrid,PAC,31,2,NA,1,MOCK DATA
+UW-EX002,UW,2027-03-18,webinar,industry,virtual,PAC,29,1,NA,1,MOCK DATA
+UW-EX003,UW,2027-04-04,classroom_module,extension_agents,in_person,PAC,42,2,NA,1,MOCK DATA
+UW-EX004,UW,2027-05-08,field_day,mixed,in_person,PAC,19,1,NA,1,MOCK DATA
+UW-EX005,UW,2027-06-09,workshop,students_k12,hybrid,PAC,8,8,NA,1,MOCK DATA
+UW-EX006,UW,2027-07-14,webinar,students_k12,virtual,PAC,39,8,NA,1,MOCK DATA

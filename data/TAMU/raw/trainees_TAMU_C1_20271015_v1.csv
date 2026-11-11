@@ -1,0 +1,4 @@
+trainee_code,node,role,program,start_date,end_date,mentor_code,qc_flag,notes
+TAMU-TR001,TAMU,undergrad,hatchery internship,2027-01-15,NA,TAMU-OP02,1,MOCK DATA
+TAMU-TR002,TAMU,grad_ms,CAP research,2027-02-14,NA,TAMU-OP03,1,MOCK DATA
+TAMU-TR003,TAMU,industry_intern,CAP research,2027-03-16,NA,TAMU-OP01,1,MOCK DATA

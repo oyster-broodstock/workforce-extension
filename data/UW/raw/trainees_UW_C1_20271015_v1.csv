@@ -1,0 +1,5 @@
+trainee_code,node,role,program,start_date,end_date,mentor_code,qc_flag,notes
+UW-TR001,UW,grad_phd,summer REU,2027-01-15,NA,UW-OP01,1,MOCK DATA
+UW-TR002,UW,postdoc,CAP research,2027-02-14,NA,UW-OP01,1,MOCK DATA
+UW-TR003,UW,grad_ms,summer REU,2027-03-16,NA,UW-OP01,1,MOCK DATA
+UW-TR004,UW,undergrad,hatchery internship,2027-04-15,NA,UW-OP04,1,MOCK DATA

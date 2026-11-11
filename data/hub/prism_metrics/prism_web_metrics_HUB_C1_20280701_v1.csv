@@ -1,0 +1,13 @@
+month,portal,unique_visitors,sessions,module_completions,sandbox_runs,source
+2028-01,student,39,62,11,19,web analytics export (MOCK)
+2028-01,industry,15,24,NA,NA,web analytics export (MOCK)
+2028-02,student,95,152,28,47,web analytics export (MOCK)
+2028-02,industry,27,43,NA,NA,web analytics export (MOCK)
+2028-03,student,130,208,39,65,web analytics export (MOCK)
+2028-03,industry,40,64,NA,NA,web analytics export (MOCK)
+2028-04,student,144,230,43,72,web analytics export (MOCK)
+2028-04,industry,66,105,NA,NA,web analytics export (MOCK)
+2028-05,student,177,283,53,88,web analytics export (MOCK)
+2028-05,industry,82,131,NA,NA,web analytics export (MOCK)
+2028-06,student,271,433,81,135,web analytics export (MOCK)
+2028-06,industry,94,150,NA,NA,web analytics export (MOCK)

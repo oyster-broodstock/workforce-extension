@@ -1,0 +1,7 @@
+event_id,node,event_date,event_type,audience,format,region,n_attendees,n_contact_hours,materials_doi,qc_flag,notes
+ARS-EX001,ARS,2027-02-04,field_day,extension_agents,hybrid,PAC,31,1,NA,1,MOCK DATA
+ARS-EX002,ARS,2027-03-21,classroom_module,students_k12,hybrid,PAC,35,2,NA,1,MOCK DATA
+ARS-EX003,ARS,2027-04-03,hatchery_training,students_k12,in_person,PAC,26,4,NA,1,MOCK DATA
+ARS-EX004,ARS,2027-05-16,hatchery_training,students_undergrad,in_person,PAC,28,8,NA,1,MOCK DATA
+ARS-EX005,ARS,2027-06-08,webinar,industry,virtual,PAC,20,1,NA,1,MOCK DATA
+ARS-EX006,ARS,2027-07-14,hatchery_training,students_undergrad,hybrid,PAC,14,8,NA,1,MOCK DATA

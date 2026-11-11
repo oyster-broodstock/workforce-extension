@@ -1,0 +1,6 @@
+trainee_code,node,role,program,start_date,end_date,mentor_code,qc_flag,notes
+VIMS-TR001,VIMS,grad_phd,CAP research,2027-01-15,NA,VIMS-OP02,1,MOCK DATA
+VIMS-TR002,VIMS,industry_intern,CAP research,2027-02-14,NA,VIMS-OP04,1,MOCK DATA
+VIMS-TR003,VIMS,grad_ms,summer REU,2027-03-16,NA,VIMS-OP02,1,MOCK DATA
+VIMS-TR004,VIMS,grad_ms,summer REU,2027-04-15,NA,VIMS-OP02,1,MOCK DATA
+VIMS-TR005,VIMS,postdoc,hatchery internship,2027-05-15,NA,VIMS-OP04,1,MOCK DATA

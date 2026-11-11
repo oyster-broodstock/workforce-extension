@@ -1,0 +1,7 @@
+event_id,node,event_date,event_type,audience,format,region,n_attendees,n_contact_hours,materials_doi,qc_flag,notes
+TAMU-EX001,TAMU,2027-02-07,classroom_module,students_k12,hybrid,GULF,33,8,NA,1,MOCK DATA
+TAMU-EX002,TAMU,2027-03-07,webinar,extension_agents,virtual,GULF,43,4,NA,1,MOCK DATA
+TAMU-EX003,TAMU,2027-04-15,hatchery_training,students_undergrad,in_person,GULF,11,1,NA,1,MOCK DATA
+TAMU-EX004,TAMU,2027-05-15,webinar,mixed,virtual,GULF,21,8,NA,1,MOCK DATA
+TAMU-EX005,TAMU,2027-06-10,field_day,students_k12,hybrid,GULF,43,4,NA,1,MOCK DATA
+TAMU-EX006,TAMU,2027-07-21,hatchery_training,mixed,hybrid,GULF,46,8,NA,1,MOCK DATA
